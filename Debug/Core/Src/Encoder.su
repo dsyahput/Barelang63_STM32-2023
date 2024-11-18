@@ -1,0 +1,6 @@
+Encoder.cpp:10:1:Encoder::Encoder(GPIO_TypeDef*, GPIO_TypeDef*, uint16_t, uint16_t)	24	static
+Encoder.cpp:19:6:void Encoder::ReadPin()	16	static
+Encoder.cpp:25:6:void Encoder::Counting()	16	static
+Encoder.cpp:33:6:void Encoder::CountingReverse()	16	static
+Encoder.cpp:41:5:int Encoder::GetCounter()	16	static
+Encoder.cpp:46:6:void Encoder::ResetCounter()	16	static

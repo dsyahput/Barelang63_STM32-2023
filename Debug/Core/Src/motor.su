@@ -1,0 +1,3 @@
+motor.cpp:11:1:MotorClass::MotorClass(GPIO_TypeDef*, GPIO_TypeDef*, uint16_t, uint16_t, int)	24	static
+motor.cpp:21:1:MotorClass::MotorClass(GPIO_TypeDef*, uint16_t, uint16_t, int)	24	static
+motor.cpp:32:6:void MotorClass::Motor(int)	16	static
